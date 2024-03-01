@@ -1,0 +1,32 @@
+[
+    {
+        "id": "101",
+        "country": "India",
+        "Capital":"New Delhi",
+        "Currency":"Indian Rupee"
+        
+    },
+    {
+        "id": "102",
+        "country": "Australia",
+        "Capital":"Canberra",
+        "Currency":"Australian dollar"
+       
+    },
+    {
+        "id": "103",
+        "country": "Maldives",
+        "Capital":"Male",
+        "Currency":"Rufiyaa"
+       
+    },
+    {
+        "id": "104",
+        "country": "Russia",
+        "Capital":"Moscow",
+        "Currency":"Ruble"
+        
+    }
+    
+    
+]
